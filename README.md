@@ -1,3 +1,3 @@
-#Gradle generators
+# Gradle generators
 
 [SVG to Drawable](./svgToDrawableGenerator)

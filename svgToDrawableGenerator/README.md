@@ -1,4 +1,4 @@
-#SVG to Drawable
+# SVG to Drawable
 Steps:
 
 0. Install Inkscape and add it to your PATH
