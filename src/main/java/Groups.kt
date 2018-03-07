@@ -1,0 +1,1 @@
+val generatorGroup = "kotlin generators"
